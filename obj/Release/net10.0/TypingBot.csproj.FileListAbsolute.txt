@@ -1,0 +1,14 @@
+D:\Users\Desktop\VS\TypingBot\bin\Release\net10.0\TypingBot.exe
+D:\Users\Desktop\VS\TypingBot\bin\Release\net10.0\TypingBot.deps.json
+D:\Users\Desktop\VS\TypingBot\bin\Release\net10.0\TypingBot.runtimeconfig.json
+D:\Users\Desktop\VS\TypingBot\bin\Release\net10.0\TypingBot.dll
+D:\Users\Desktop\VS\TypingBot\bin\Release\net10.0\TypingBot.pdb
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\TypingBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\TypingBot.AssemblyInfoInputs.cache
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\TypingBot.AssemblyInfo.cs
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\TypingBot.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\TypingBot.dll
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\refint\TypingBot.dll
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\TypingBot.pdb
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\TypingBot.genruntimeconfig.cache
+D:\Users\Desktop\VS\TypingBot\obj\Release\net10.0\ref\TypingBot.dll
